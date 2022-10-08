@@ -1,4 +1,4 @@
-# MSIS3363-WebApplication
+# MSIS3363- Web Application Development
 
 Create web pages and a multi-page application using Microsoft Visual Studio, ASP.NET, C#, HTML, HTML5, CSS3, and Microsoft SQLServer. 
 
