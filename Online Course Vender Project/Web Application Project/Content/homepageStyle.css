@@ -1,0 +1,157 @@
+﻿.remove-mg-pd {
+    margin: 0;
+    padding: 0;
+}
+
+.remove-mg {
+    margin: 0;
+}
+.fontSize {
+    font-size: 25px;
+    white-space: nowrap;
+}
+
+.backgroundColor {
+    background-color: black;
+}
+/*carousel next icon*/
+.carousel-control-next-icon {
+    filter: invert(100%);
+}
+/*carousel previous icon*/
+.carousel-control-prev-icon {
+    filter: invert(100%);
+}
+
+.image-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+.subheader {
+    color: darkgray;
+    text-align: center;
+    top: 0%;
+    margin-top: 2rem;
+}
+
+.mainhd {
+    color: black;
+    text-align: center;
+    margin-top: 8rem;
+    font-size: 60px;
+}
+
+.phd {
+    color: black;
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 30px;
+}
+
+.pcontents {
+    color: black;
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 30px;
+}
+.pcontent2 {
+    color: black;
+    text-align: left;
+    margin-top: 2rem;
+    font-size: 25px;
+}
+
+
+.pphd {
+    color: black;
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    font-size: 28px;
+}
+
+.bgred {
+    background-color: red;
+}
+
+.bgwhite {
+    background-color: white;
+}
+
+.text35 {
+    font-size: 35px;
+}
+
+.margin6 {
+    margin-top: 6rem;
+
+}
+.margin7 {
+    margin-top: 6rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+}
+
+.txtbox {
+    text-align: center;
+}
+
+.fontup {
+    font-size: 20px;
+}
+
+.signuphd {
+    color: black;
+    text-align: center;
+    margin-top: 8rem;
+    font-size: 3vw;
+}
+
+.imgFix {
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar-custom {
+    background-color: white;
+}
+
+.sidenavbartextfontsize {
+    color: darkslateblue;
+    text-align: right;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    font-size: 20px;
+}
+
+.responsiveText {
+    font-size: 4vw;
+}
+
+.signupIMG {
+    /*min-width: 20em;*/
+    max-width: 80%;
+    /*min-height: 80%;*/
+    /*max-height: 50%;*/
+    /*height: 5%;*/
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    margin-left: 3rem;
+}
+
+.recoveryfontup {
+    font-size: 19px;
+}
+
+.removeTopMargin {
+    margin-top: 0px;
+}
+
+.cardhight {
+    height: 60%;
+}

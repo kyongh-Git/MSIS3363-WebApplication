@@ -1,0 +1,30 @@
+﻿.Firstcart {
+    min-height:8rem;
+    min-width:100%;
+    margin-bottom:2rem;
+}
+
+.TextSizeUp {
+    font-size: 20px;
+}
+/*set card margin zero*/
+.cardMG {
+    margin: 0;
+    padding: 0;
+}
+/*set image size 100%*/
+.imgSize {
+    height: 100%;
+}
+/*no margin for page*/
+.remove-img-mg {
+    margin: 0;
+}
+
+.font-lobster {
+    font-family: 'Lobster', cursive;
+}
+/*page height set 100%*/
+.pgheight {
+    height: 100%;
+}
